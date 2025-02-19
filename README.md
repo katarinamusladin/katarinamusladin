@@ -6,7 +6,7 @@
 
 <p>🛜 Currently working on my own <a href="https://katarinamusladin.com" target="_blank">webpage</a> and <a href="https://github.com/katarinamusladin/Quill" target="_blank">Quill Journal App</a><br>
 👨🏼‍🎓 Computer Engineer and BrainStation Software Engineering Alumni <br>
-👨🏼‍💻 Currently working on my own projects and expanding my web development skills
+👨🏼‍💻 Working on my own projects and expanding my web development skills
 </p>
 
 ###
