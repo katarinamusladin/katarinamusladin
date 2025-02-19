@@ -13,8 +13,10 @@
 
 <img align="right" height="150" src="https://media.tenor.com/7dr3AgyEiN0AAAAi/anime-girl-wave.gif"  />
 
-<h2 >💻 Tech Stack: </h2>
-<br>
+<h2 style="margin-bottom: 20px;" >💻 Tech Stack: </h2>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
