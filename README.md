@@ -11,7 +11,7 @@
 
 <img align="right" height="150" src="https://media.tenor.com/7dr3AgyEiN0AAAAi/anime-girl-wave.gif"  />
 
-###
+### 💻 Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -67,11 +67,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/katarinamusladin/katarinamusladin/output/github-snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/katarinamusladin/count.svg?"  />
-</div>
 
 ###
