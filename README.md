@@ -1,12 +1,28 @@
-<h2 align="left">👋 Hello World! I'm Katarina, a Canadian Web Developer 👋🏼:</h2>
+<h2 align="left">Hello World! I'm Katarina, a Canadian Web Developer 👋🏼:</h2>
+
+###
+
+<a href="https://katarinamusladin.com" target="_blank">My personal webpage</a>
+<a href="https://github.com/katarinamusladin/quill-journal-app" target="_blank">Quill Journal App</a>
+
+<h3>👨🏼‍🎓 Education & Career:</h3>
+<ul>
+  <li>Computer Engineer and BrainStation Software Engineering Alumni</li>
+  <li>Currently working on my own projects and expanding my web development skills</li>
+</ul>
+
+<h3>🎬 Extra:</h3>
+<ul>
+  <li>Just started out with my <a href="https://www.youtube.com/channel/UCQwQto-pAn7FkY5_AYU6yPQ" target="_blank">YouTube channel, "Katarina Tackles Tech"</a></li>
+</ul>
 
 ###
 
 <div align="center">
-  🛜 Currently working on my own webpage: [katarinamusladin.com](https://katarinamusladin.com)  
-  👨🏼‍🎓 Computer Engineer and BrainStation Software Engineering Alumni  
-  👨🏼‍💻 Currently working on my own projects and expanding my web development skills  
-  🎬 Just started out with my YouTube channel, [Katarina Tackles Tech](https://www.youtube.com/channel/UCQwQto-pAn7FkY5_AYU6yPQ)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katarinamusladin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katarinamusladin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
