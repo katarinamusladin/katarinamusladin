@@ -1,7 +1,29 @@
-<h2 align="left">👋 Hi there! My name is Katarina and I'm a Toronto-based passionate developer with a strong interest in building user-friendly, impactful web apps and turning ideas into reality through code.</h2>
+<h2 align="left">👋 Hello World! I'm Katarina, a Canadian Web Developer</h2>
 
 ###
 
+<h3>🛜 Currently working on:</h3>
+<ul>
+  <li><a href="https://katarinamusladin.com" target="_blank">My personal webpage</a></li>
+  <li><a href="https://github.com/katarinamusladin/quill-journal-app" target="_blank">Quill Journal App</a></li>
+</ul>
+
+<h3>👨🏼‍🎓 Education & Career:</h3>
+<ul>
+  <li>Computer Engineer and BrainStation Software Engineering Alumni</li>
+  <li>Currently working on my own projects and expanding my web development skills</li>
+</ul>
+
+<h3>🎬 Extra:</h3>
+<ul>
+  <li>Just started out with my <a href="https://www.youtube.com/channel/UCQwQto-pAn7FkY5_AYU6yPQ" target="_blank">YouTube channel, "Katarina Tackles Tech"</a></li>
+</ul>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katarinamusladin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katarinamusladin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
