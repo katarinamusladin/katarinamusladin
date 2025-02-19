@@ -1,8 +1,10 @@
+<img src="banner.png" alt="Banner Image" />
+
 <h1 align="left">Hello World! I'm Katarina, a Canadian Web Developer 👋🏼:</h1>
 
 ###
 
-<p>🛜 Currently working on <a href="https://katarinamusladin.com" target="_blank">my own webpage</a> and <a href="https://github.com/katarinamusladin/Quill" target="_blank">Quill Journal App</a><br>
+<p>🛜 Currently working on my own <a href="https://katarinamusladin.com" target="_blank">webpage</a> and <a href="https://github.com/katarinamusladin/Quill" target="_blank">Quill Journal App</a><br>
 👨🏼‍🎓 Computer Engineer and BrainStation Software Engineering Alumni <br>
 👨🏼‍💻 Currently working on my own projects and expanding my web development skills
 </p>
