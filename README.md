@@ -65,10 +65,12 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/katarinamusladin/katarinamusladin/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/katarinamusladin/katarinamusladin/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/katarinamusladin&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+  <img src="https://profile-counter.glitch.me/katarinamusladin/count.svg?"  />
 </div>
+
+###
