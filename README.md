@@ -1,6 +1,6 @@
 <img src="header-image.png" alt="Banner Image" />
 
-<h1 align="left">Hello World! I'm Katarina, a Canadian Web Developer 👋🏼:</h1>
+<h2 align="left">Hello World! I'm Katarina, a Canadian Web Developer 👋🏼:</h2>
 
 ###
 
@@ -11,9 +11,9 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/7dr3AgyEiN0AAAAi/anime-girl-wave.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/7dr3AgyEiN0AAAAi/anime-girl-wave.gif"  />
 
-<h2 >💻 Tech Stack: </h2>
+<h3 >💻 Tech Stack: </h3>
 
 ###
 
