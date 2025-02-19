@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Banner Image" />
+<img src="header-image.png" alt="Banner Image" />
 
 <h1 align="left">Hello World! I'm Katarina, a Canadian Web Developer 👋🏼:</h1>
 
