@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="100" src="https://media.tenor.com/7dr3AgyEiN0AAAAi/anime-girl-wave.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/7dr3AgyEiN0AAAAi/anime-girl-wave.gif"  />
 
 <h2 >💻 Tech Stack: </h2>
 
