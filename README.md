@@ -1,4 +1,4 @@
-<h2 align="left">Hello World! I'm Katarina, a Canadian Web Developer 👋🏼:</h2>
+<h1 align="left">Hello World! I'm Katarina, a Canadian Web Developer 👋🏼:</h1>
 
 ###
 
@@ -11,7 +11,8 @@
 
 <img align="right" height="150" src="https://media.tenor.com/7dr3AgyEiN0AAAAi/anime-girl-wave.gif"  />
 
-### 💻 Tech Stack:
+<h2>💻 Tech Stack: </h2>
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
