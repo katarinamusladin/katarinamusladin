@@ -53,7 +53,7 @@
 ###
 
 <div align="left">
-  <a href="katarinamcao@gmail.com" target="_blank">
+  <a href="mailto:katarinamcao@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/katarina-musladin/" target="_blank">
@@ -65,12 +65,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/katarinamusladin/katarinamusladin/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/katarinamusladin/katarinamusladin/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/katarinamusladin/count.svg?"  />
+  ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/katarinamusladin&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 </div>
-
-###
